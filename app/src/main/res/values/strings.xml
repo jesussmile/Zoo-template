@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zoo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="exhibits_feed">https://gist.githubusercontent.com/jesussmile/ad993eec3fa6f1b99f23/raw/046883123dbf1b0c4066ff27a5eecc66fd339fc3</string>
+    <string name="gallery_feed">https://gist.githubusercontent.com/jesussmile/81070220dd5ef3f21787/raw/1e466e70d4599487ad3adfab87df218d3d30c739</string>
+    <string name ="pins_feed">https://gist.githubusercontent.com/jesussmile/c13c796c586625b4afab/raw/c63db5130d9269e2c697f5f59964fd0743bc9452</string>
+    <string name="action_settings">Settings</string>
+</resources>
